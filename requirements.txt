@@ -1,1 +1,15 @@
+#Don't Add Some Of The Requirements Txt That Are Already Available in Your Requirements Txt such as Pyrogram , haichoir etc 
 
+hachoir
+numpy
+Pillow
+requests
+olefile
+filetype
+tldextract
+motor
+aiofiles
+dnspython
+psutil
+pyrogram
+tgcrypto
