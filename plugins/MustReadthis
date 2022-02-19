@@ -1,0 +1,8 @@
+#DataBase Adding Method In Commands,#Read Start.py to Know How To add It In Commands, Add Below Given Txt in Command such as /start /help ,/about
+
+
+
+    if not update.from_user:
+        return await update.reply_text("I don't know about you sar :(")
+    await add_user_to_database(bot, update)
+
